@@ -1,3 +1,5 @@
+# DETERMINANT
+
 görev tanımı: "Evet! Temel Matematik modülünün sonuna geldik. Derslerde ezbere değil sezgisel öğrenme üzerine gittik, bunu pekiştirmek için ise güzel bir projemiz var! Matematik ile ilgili istediğiniz bir konuda, ezber bir bilgi içermeyecek, sezgisel anlamaya dayalı bir blog gönderisi yazmanızı istiyoruz. Bu blog postunun linkini paylaşırsan çok iyi olur ✔ (sezgisel olarak bir yazı yazarken uzun sürebilir, önemli olan üzerine düşünmek, uzun sürmesi şevkinizi kırmasın, gayet doğal👍)"
 
 Determinant, kare matrislerin özelliklerini ölçen bir matematiksel değerdir. Bir matrisin determinantinin değeri, matrisin büyüklüğünü, şeklini ve bileşenlerinin ilişkisini temsil eder.
