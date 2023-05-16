@@ -8,7 +8,7 @@ Determinant, matrisin nasıl döndürüldüğünü, yatay ve dikey bileşenlerin
 
 Determinant, matrislerin geometrik ve cebirsel özelliklerini birleştirir. Bir matrisin determinantinin sıfır olması, matrisin tersinin olmadığını veya doğrusal olarak bağımlı olduğunu gösterirken, determinantin sıfırdan farklı bir değere sahip olması, matrisin tersinin olduğunu ve doğrusal olarak bağımsız olduğunu gösterir.
 
-![img](![image](https://github.com/SHaken53/academy.patika.dev/assets/127444580/a8e4a91c-2304-4090-b8a5-3bd99d90bdb6))
+![github](![image](https://github.com/SHaken53/academy.patika.dev/assets/127444580/a8e4a91c-2304-4090-b8a5-3bd99d90bdb6))
 image source : https://davidroodman.com/blog/2016/02/21/on-the-geometric-interpretation-of-the-determinant-of-a-matrix/
 
 Determinant, matematiksel modellerin analizinde, denklem sistemlerinin çözümünde, grafiklerin ve vektörlerin manipülasyonunda ve birçok uygulamada önemli bir rol oynar. Matrislerin özelliklerini anlamak ve manipüle etmek için determinant kavramı oldukça değerlidir.
@@ -25,7 +25,7 @@ The determinant shows how the matrix is rotated, how its horizontal and vertical
 
 The determinant combines the geometric and algebraic properties of matrices. A matrix's determinant of zero indicates that the matrix has no inverse or is linearly dependent, while a nonzero value of the determinant indicates that the matrix has an inverse and is linearly independent.
 
-![img](![image](https://github.com/SHaken53/academy.patika.dev/assets/127444580/cf4e790b-f193-44b6-a0e6-662d59855193))
+![github](![image](https://github.com/SHaken53/academy.patika.dev/assets/127444580/cf4e790b-f193-44b6-a0e6-662d59855193))
 image source : https://davidroodman.com/blog/2016/02/21/on-the-geometric-interpretation-of-the-determinant-of-a-matrix/
 
 The determinant plays an important role in the analysis of mathematical models, solving systems of equations, manipulation of graphs and vectors, and in many applications. The concept of determinants is very valuable for understanding and manipulating the properties of matrices.
